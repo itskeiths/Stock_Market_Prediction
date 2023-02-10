@@ -1,4 +1,4 @@
-# Stock_Market_Prediction
+# Stock Market Prediction Using CNN-LSTM
 ## Introduction
 This repository contains a deep learning model that predicts the future behavior of a stock market. The model is developed using Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks. The model is trained on historical stock market data and can be used to make predictions about future stock prices.
 
